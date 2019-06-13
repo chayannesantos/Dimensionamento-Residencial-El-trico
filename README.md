@@ -2,7 +2,7 @@
 
 O projeto foi feito utilizando a plataforma QT creator para a disciplina de técnicas de programação 2019.1.  Dimensionamento residencial elétrico é uma aplicação que cadastra as dimensões dos cômodos de uma residência e fornece de forma adequada a quantidade de tomadas e potência de iluminação de acordo com os dados fornecidos pelo usuário.
 
-Dimensionamento residencial elétrico permite que o usuário selecione um cômodo da residência, cadastre as dimensões, dimensione a quantidade de pontos de tomadas e potência de iluminação, acompanhe a estatística da demanda, acesse o link da norma brasileira (NBR-5410)  que estipula as condições adequadas para o funcionamento usual e seguro das instalações elétricas.
+O aplicativo permite que o usuário selecione um cômodo da residência, cadastre as dimensões, dimensione a quantidade de pontos de tomadas e potência de iluminação, acompanhe a estatística da demanda, acesse o link da norma brasileira (NBR-5410)  que estipula as condições adequadas para o funcionamento usual e seguro das instalações elétricas.
 
 
  
@@ -10,7 +10,7 @@ Dimensionamento residencial elétrico permite que o usuário selecione um cômod
 
 
 
-Além da tela de cadastro e amostragem dos cômodos inseridos, o dre possui uma tela de estatísticas que mostra o cômodo que possui a maior e a menor quantidade de potência de iluminação e tomadas. Há também a exibição do valor da média e do total da potência de iluminação e pontos de tomadas.
+Além da tela de cadastro e amostragem dos cômodos inseridos, o programa possui uma tela de estatísticas que mostra o cômodo que possui a maior e a menor quantidade de potência de iluminação e tomadas. Há também a exibição do valor da média e do total da potência de iluminação e pontos de tomadas.
  
 
 # Manual do usuário 
