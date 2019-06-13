@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icones">
+        <file>Imagens/editar.png</file>
+        <file>Imagens/salvar.png</file>
+        <file>Imagens/carregar.png</file>
+        <file>Imagens/sair.png</file>
+        <file>Imagens/txt.png</file>
+        <file>Imagens/csv2.png</file>
+        <file>Imagens/csv.png</file>
+        <file>Imagens/help.png</file>
+        <file>Imagens/normas.png</file>
+    </qresource>
+</RCC>
