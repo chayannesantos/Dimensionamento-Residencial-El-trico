@@ -40,7 +40,7 @@ Contamos com três botões que possibilitam a ordenação a partir desses três 
  
 #### Como ter acesso aos dados estatísticos?
 
-Basta acessar o menu “estatísticas” e automaticamente a mesma mostrara os dados atualizados.
+Basta acessar o menu “estatísticas” e automaticamente a mesma mostrará os dados atualizados.
  
 ![Estatisticas Dados](https://github.com/chayannesantos/Dimensionamento-Residencial-Eletrico/blob/master/Imagens%20do%20Readme/Imagem%209%20-%20Estatisticas.jpg?raw=true) 
 
@@ -92,4 +92,4 @@ Para o usuário aprender como funciona e como utilizar o aplicativo, basta ir no
  
  ![Manual Norma](https://github.com/chayannesantos/Dimensionamento-Residencial-Eletrico/blob/master/Imagens%20do%20Readme/Imagem%2019%20-%20Manual%20e%20Norma.jpg?raw=true)
  
- 
+ **Agora é sua vez! Boa Sorte!**
